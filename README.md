@@ -1,6 +1,6 @@
 # CN476 Internet Technology
 
-* 6110613202 Prach Chantasantitam
+* ปราชญ์ ฉันทะสันติธรรม 6110613202
 
 ## Hash & PKI for Blockchain
 
